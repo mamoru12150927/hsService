@@ -1,0 +1,2 @@
+# hsService
+Haskellのみで作るWebサービス
